@@ -68,3 +68,51 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamadaAllipy&show_icons=true&theme=radical)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Flutter Developer - Omar Saeed
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Passionate+Flutter+Developer" />
+</p>
+
+## About Me
+
+I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter. I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education, social media, and gaming.
+
+## Projects
+
+### [Ashturi.com](#)
+An online shopping app enabling users to browse, search, and purchase products from diverse categories and vendors. I was responsible for UI/UX design, database integration, payment gateway, and push notifications using Flutter and Firebase.
+
+### [Malakoot](#)
+An online learning app offering courses and quizzes on various topics and skills.
+
+### [General Consultation](#)
+An online platform connecting businesses with expert consultants in various fields. I contributed to the development of a system facilitating consultations in marketing, finance, strategy, and more.
+
+## Skills
+
+- Proficient in Dart programming and the Flutter framework.
+- In-depth understanding of mobile app architecture and UI/UX principles.
+- Skilled in optimizing app performance and staying updated with the latest trends.
+- Specialized in creating high-quality animations for an enhanced user experience.
+
+## Why Choose Me?
+
+- Collaborative mindset with excellent problem-solving skills.
+- Proven ability to deliver exceptional mobile solutions.
+- Eager to contribute to innovative and user-friendly mobile app development.
+
+## Let's Connect
+
+I am eager to discuss how my skills and experience align with your needs. Feel free to reach out to me for a more in-depth discussion and to explore my portfolio of Flutter apps.
+
+**Email:** [omarhamode106@gmail.com](mailto:omarhamode106@gmail.com)
+
+**LinkedIn:** [Omar Saeed](https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Thank you for your consideration, and I look forward to the opportunity of working together.
+
+Sincerely,
+Omar Saeed
