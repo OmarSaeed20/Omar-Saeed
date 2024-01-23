@@ -21,7 +21,7 @@
   <a href="mailto:omarhamode106@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="mailto:01067496938">
+  <a href="whatsapp:01067496938">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp Badge"/>
   </a>
   
