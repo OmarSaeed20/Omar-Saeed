@@ -2,8 +2,9 @@
 <div id="header" align="center">
   <h1>
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a>
+      Flutter Developer - Omar Saeed
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a> -->
 </p>
 </h2>
   <div id="badges">
@@ -43,7 +44,9 @@
 - 📱 I make apps for Android and iOS
 
 - 🎓 F.C.O  2023
+>![info]
 
+> I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter. I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education and social media.
 
 ---
 
@@ -62,12 +65,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HamadaAllipy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamadaAllipy&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamadaAllipy&show_icons=true&theme=radical)
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 # Flutter Developer - Omar Saeed
@@ -83,13 +82,17 @@ I am a passionate and experienced mobile app developer with over 2.5 years of ex
 ## Projects
 
 ### [Ashturi.com](#)
-An online shopping app enabling users to browse, search, and purchase products from diverse categories and vendors. I was responsible for UI/UX design, database integration, payment gateway, and push notifications using Flutter and Firebase.
+- An online shopping app enabling users to browse, search, and purchase products from diverse categories and vendors. I was responsible for UI/UX design, database integration, payment gateway, and push notifications using Flutter and Firebase.
 
 ### [Malakoot](#)
-An online learning app offering courses and quizzes on various topics and skills.
+- An online learning app offering courses and quizzes on various topics and skills.
 
-### [General Consultation](#)
-An online platform connecting businesses with expert consultants in various fields. I contributed to the development of a system facilitating consultations in marketing, finance, strategy, and more.
+### [Ejazah اجازة](https://play.google.com/store/apps/details?id=com.visooft.ejazah)
+- Ejaza is a platform licensed by the Ministry of Tourism for shared accommodation and tourism and entertainment events
+- The application allows you to benefit from the offered services and also allows you to offer your services to others in the following sections: holiday homes, shared homes, chalets and camps, events, travel groups, shopping and restaurants, and a tourist guide.
+
+### [General Consultation](https://github.com/OmarSaeed20/General-Consultation-.git)
+- An online platform connecting businesses with expert consultants in various fields. I contributed to the development of a system facilitating consultations in marketing, finance, strategy, and more.
 
 ## Skills
 
