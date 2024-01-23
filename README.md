@@ -1,8 +1,6 @@
 
 <div id="header" align="center">
   <h1>
-<!--   Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
     <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=204AF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a>
@@ -21,7 +19,7 @@
   <a href="https://www.facebook.com/profile.php?id=100074359659144">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
+  <a href="mailto:omarhamode106@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
