@@ -69,18 +69,21 @@
 
 ## Projects
 
-### [Ashturi.com](#)
-- An online shopping app enabling users to browse, search, and purchase products from diverse categories and vendors. I was responsible for UI/UX design, database integration, payment gateway, and push notifications using Flutter and Firebase.
-
-### [Malakoot](#)
-- An online learning app offering courses and quizzes on various topics and skills.
-
 ### [Ejazah اجازة](https://play.google.com/store/apps/details?id=com.visooft.ejazah)
 - Ejaza is a platform licensed by the Ministry of Tourism for shared accommodation and tourism and entertainment events
 - The application allows you to benefit from the offered services and also allows you to offer your services to others in the following sections: holiday homes, shared homes, chalets and camps, events, travel groups, shopping and restaurants, and a tourist guide.
 
 ### [General Consultation](https://github.com/OmarSaeed20/General-Consultation-.git)
 - An online platform connecting businesses with expert consultants in various fields. I contributed to the development of a system facilitating consultations in marketing, finance, strategy, and more.
+
+### [Drop Me](https://github.com/OmarSaeed20/Drop-Me.git)
+- Drop Me is not just a bottle recycling app; it's a community-driven initiative that encourages users to actively participate in sustainable practices while enjoying exclusive rewards. Our Flutter app is designed to make recycling a rewarding experience, blending eco-friendliness with a sense of community.
+
+### [Cars](#)
+- Cars is a customer-to-service providers  (C2S) application that connects car owners with service providers. Whether you need maintenance, spare parts, or express service, Cars can help you find the best deal and the most convenient location. You can also post ads for your car or browse other ads from fellow car owners.
+
+### [Malakoot](https://play.google.com/store/apps/details?id=com.malakoot.course)
+- An online learning app offering courses and quizzes on various topics and skills.
 
 ## Skills
 
