@@ -44,9 +44,8 @@
 - 📱 I make apps for Android and iOS
 
 - 🎓 F.C.O  2023
->![info]
 
-> I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter. I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education and social media.
+- I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter. I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education and social media.
 
 ---
 
@@ -67,17 +66,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamadaAllipy&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Flutter Developer - Omar Saeed
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Passionate+Flutter+Developer" />
-</p>
-
-## About Me
-
-I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter. I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education, social media, and gaming.
 
 ## Projects
 
@@ -115,7 +103,8 @@ I am eager to discuss how my skills and experience align with your needs. Feel f
 
 **LinkedIn:** [Omar Saeed](https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Thank you for your consideration, and I look forward to the opportunity of working together.
+**WhatsApp:** [Omar Saeed](https://wa.me/qr/S75YYDZVP773A1)
 
-Sincerely,
-Omar Saeed
+**Facebook:** [Omar Saeed](https://www.facebook.com/profile.php?id=100074359659144)
+
+
