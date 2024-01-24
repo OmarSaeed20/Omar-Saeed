@@ -103,8 +103,8 @@ I am eager to discuss how my skills and experience align with your needs. Feel f
 
 **LinkedIn:** [Omar Saeed](https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-**WhatsApp:** [Omar Saeed](https://wa.me/qr/S75YYDZVP773A1)
+**WhatsApp:** [+20 106 749 693 8](https://wa.me/qr/S75YYDZVP773A1)
 
-**Facebook:** [Omar Saeed](https://www.facebook.com/profile.php?id=100074359659144)
+**Facebook:** [عمر سعيد](https://www.facebook.com/profile.php?id=100074359659144)
 
 
