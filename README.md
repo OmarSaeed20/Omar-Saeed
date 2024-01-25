@@ -45,7 +45,7 @@
 
 - 🎓 Faculty of Commerce English Section 2023
 
-- I am a passionate and experienced mobile app developer with over 2.5 years of expertise in building production-level mobile applications using Flutter.
+- I am a passionate and experienced mobile app developer with over 2 years of expertise in building production-level mobile applications using Flutter.
 
 - I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education and social media.
 
