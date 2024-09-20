@@ -65,9 +65,6 @@
 ### [Cars](https://github.com/OmarSaeed20/Cars.git)
 - Cars is a customer-to-service providers  (C2S) application that connects car owners with service providers. Whether you need maintenance, spare parts, or express service, Cars can help you find the best deal and the most convenient location. You can also post ads for your car or browse other ads from fellow car owners.
 
-### [Malakoot](https://play.google.com/store/apps/details?id=com.malakoot.course)
-- An online learning app offering courses and quizzes on various topics and skills.
-
 ## Skills
 
 - Proficient in Dart programming and the Flutter framework.
