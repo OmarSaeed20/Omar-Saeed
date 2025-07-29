@@ -1,111 +1,348 @@
+# 👋 Omar Saeed - Flutter Developer
 
-<div id="header" align="center">
-  <h1>
-    <p align="center">
-      Flutter Developer - Omar Saeed
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a> -->
-</p>
-</h2>
-  <div id="badges">
+<div align="center">
   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Experienced+UI+%2F+UX+Designer;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Experienced+UI+%2F+UX+Designer;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074359659144)
 
-  <a href="https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="mailto:omarhamode106@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://wa.me/qr/S75YYDZVP773A1">
-    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp Badge"/>
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100074359659144">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  
+![Profile Views](https://komarev.com/ghpvc/?username=OmarSaeed20&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
-  
-</div>
-
 
 ---
- ### 📖  About Me 
- 
- - 💻 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
- - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications all plarforms.
 
-- 📱 I make apps for Android and iOS
+## 🚀 About Me
 
-- 🎓 Faculty of Commerce English Section 2023
+> 💻 **Passionate Flutter Developer** from Egypt with **3+ years** of experience in building production-level mobile applications
 
-- I am a passionate and experienced mobile app developer with over 2 years of expertise in building production-level mobile applications using Flutter.
+- 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS, Web, Desktop)
+- 📱 **Specialization**: High-performance apps with clean architecture
+- 🏆 **Achievement**: Reduced app load times by **70%** across projects
+- 🎓 **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
+- 👨‍🏫 **Mentorship**: Guided **6+ junior developers** on Flutter best practices
 
-- I have a proven track record of developing and deploying Flutter apps for various domains, including e-commerce, education and social media.
+```mermaid
+graph LR
+    A[💡 Idea] --> B[🎨 Design]
+    B --> C[⚡ Flutter Development]
+    C --> D[🧪 Testing]
+    D --> E[🚀 Deployment]
+    E --> F[📊 Analytics]
+    
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FECA57
+    style F fill:#FF9FF3
+```
 
-
-## Projects
-
-### [Ejazah اجازة](https://play.google.com/store/apps/details?id=com.visooft.ejazah)
-- Ejaza is a platform licensed by the Ministry of Tourism for shared accommodation and tourism and entertainment events
-- The application allows you to benefit from the offered services and also allows you to offer your services to others in the following sections: holiday homes, shared homes, chalets and camps, events, travel groups, shopping and restaurants, and a tourist guide.
-
-### [General Consultation](https://github.com/OmarSaeed20/General-Consultation-.git)
-- An online platform connecting businesses with expert consultants in various fields. I contributed to the development of a system facilitating consultations in marketing, finance, strategy, and more.
-
-### [Drop Me](https://github.com/OmarSaeed20/Drop-Me.git)
-- Drop Me is not just a bottle recycling app; it's a community-driven initiative that encourages users to actively participate in sustainable practices while enjoying exclusive rewards. Our Flutter app is designed to make recycling a rewarding experience, blending eco-friendliness with a sense of community.
-
-### [Cars](https://github.com/OmarSaeed20/Cars.git)
-- Cars is a customer-to-service providers  (C2S) application that connects car owners with service providers. Whether you need maintenance, spare parts, or express service, Cars can help you find the best deal and the most convenient location. You can also post ads for your car or browse other ads from fellow car owners.
-
-## Skills
-
-- Proficient in Dart programming and the Flutter framework.
-- In-depth understanding of mobile app architecture and UI/UX principles.
-- Skilled in optimizing app performance and staying updated with the latest trends.
-- Specialized in creating high-quality animations for an enhanced user experience.
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 ---
 
-### :fire: My Stats :
+## 🎯 Technical Skills
 
+### 📱 **Mobile Development**
+```
+Flutter & Dart        ████████████████████ 95%
+State Management      ████████████████████ 90%
+Clean Architecture    ████████████████████ 88%
+Performance Tuning    ████████████████████ 85%
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamadaAllipy&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+<details>
+<summary><strong>🔧 Core Technologies</strong></summary>
 
-## Why Choose Me?
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| **Flutter** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **Dart** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **BLoC/Cubit** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **GetX** | ⭐⭐⭐⭐ | 2+ years |
+| **Provider** | ⭐⭐⭐⭐ | 2+ years |
+| **Firebase** | ⭐⭐⭐⭐⭐ | 3+ years |
 
-- Collaborative mindset with excellent problem-solving skills.
-- Proven ability to deliver exceptional mobile solutions.
-- Eager to contribute to innovative and user-friendly mobile app development.
+</details>
 
-## Let's Connect
+### 🛠️ **Tech Stack**
 
-I am eager to discuss how my skills and experience align with your needs. Feel free to reach out to me for a more in-depth discussion and to explore my portfolio of Flutter apps.
+<div align="center">
 
-**Email:** [omarhamode106@gmail.com](mailto:omarhamode106@gmail.com)
+#### **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**LinkedIn:** [Omar Saeed](https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+#### **State Management**
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**WhatsApp:** [+20 106 749 693 8](https://wa.me/qr/S75YYDZVP773A1)
+#### **Backend & Services**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
 
-**Facebook:** [عمر سعيد](https://www.facebook.com/profile.php?id=100074359659144)
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
 
+---
+
+## 👔 Professional Experience
+
+```mermaid
+timeline
+    title Professional Journey
+    
+    2022 : Freelance Flutter Developer
+         : Started Flutter development journey
+         : Built Az-Cash & El Aqarat apps
+    
+    2023 : Drop Me Company (Jan - Present)
+         : Lead Flutter Developer
+         : Community-driven recycling app
+    
+    2023 : Nofalseo Company (Jun - Jan 2024)
+         : Flutter Developer
+         : Cars, General Consultation, Super School
+    
+    2024 : Semicolon Company (Jan - Jul)
+         : Flutter Developer
+         : Zaakr, 3M Physics, E-learning apps
+    
+    2025 : Mafrooz Company (Jan - Present)
+         : Senior Flutter Developer
+         : Performance optimization expert
+```
+
+### 🏢 **Current Positions**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 **Mafrooz Company**
+**Senior Flutter Developer** _(Jan 2025 - Present)_
+- Performance optimization specialist
+- User experience enhancement
+- Advanced architecture implementation
+
+</td>
+<td width="50%">
+
+#### ♻️ **Drop Me Company** 
+**Lead Flutter Developer** _(Jan 2023 - Present)_
+- Community-driven recycling platform
+- Real-time rewards system
+- Sustainable practices gamification
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Featured Projects
+
+<div align="center">
+
+### 🏆 **Production Apps**
+
+| App | Platform | Downloads | Rating |
+|-----|----------|-----------|---------|
+| **Ejazah اجازة** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.visooft.ejazah) | 10K+ | ⭐ 4.5 |
+| **Zaakr** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) | 5K+ | ⭐ 4.8 |
+| **Super School Parents** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](#) | 1K+ | ⭐ 4.6 |
+
+</div>
+
+<details>
+<summary><strong>🔍 Project Details</strong></summary>
+
+### 🏖️ **Ejazah اجازة**
+> Licensed tourism platform by Ministry of Tourism
+- **Features**: Shared accommodation, tourism events, holiday homes
+- **Tech Stack**: Flutter, Firebase, Google Maps, Payment Integration
+- **Achievement**: Successfully deployed production app with 10K+ downloads
+
+### 💡 **General Consultation**
+> B2B consulting platform connecting businesses with experts
+- **GitHub**: [View Repository](https://github.com/OmarSaeed20/General-Consultation-.git)
+- **Features**: Real-time consultations, multi-domain expertise
+- **Domains**: Marketing, Finance, Strategy consulting
+
+### ♻️ **Drop Me**
+> Community-driven bottle recycling initiative
+- **GitHub**: [View Repository](https://github.com/OmarSaeed20/Drop-Me.git)
+- **Features**: Rewards system, community engagement, sustainability tracking
+- **Impact**: Promoting eco-friendly practices through gamification
+
+### 🚗 **Cars**
+> C2S marketplace for automotive services
+- **GitHub**: [View Repository](https://github.com/OmarSaeed20/Cars.git)
+- **Features**: Service provider matching, maintenance booking, spare parts
+- **Architecture**: Clean Architecture with BLoC state management
+
+</details>
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
+|----------------|-----------|-------------|
+| **Performance Optimization** | 70% faster load times | 2023-2024 |
+| **Team Leadership** | Mentored 6+ developers | 2023-Present |
+| **Localization Expert** | Arabic/English in all apps | 2022-Present |
+| **Production Deployments** | 8+ apps on Google Play | 2022-Present |
+
+</div>
+
+```mermaid
+pie title Skills Distribution
+    "Flutter Development" : 40
+    "Architecture & Design" : 25
+    "Performance Optimization" : 15
+    "Team Leadership" : 10
+    "DevOps & Deployment" : 10
+```
+
+---
+
+## 🎓 Education & Certifications
+
+### 🏫 **Academic Background**
+**B.Sc. in Commerce (English Section)**  
+*Menoufia University, Egypt* | **2019 - 2023**
+
+### 📜 **Professional Certifications**
+
+<table>
+<tr>
+<td>
+
+#### 🏗️ **Flutter MVVM with Clean Architecture**
+- **Instructor**: Mina Farid
+- **Duration**: 22 Hours
+- **Date**: Dec 2022
+- **Focus**: Advanced state management, BLoC, Repository pattern, TDD
+
+</td>
+<td>
+
+#### 🔧 **Advanced Flutter Clean Architecture**
+- **Instructor**: Usama Elgendy  
+- **Duration**: 8 Hours
+- **Date**: Oct 2022
+- **Focus**: Domain-driven design, Dependency inversion
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+#### 📱 **The Complete 2022 Flutter & Dart Development**
+- **Instructor**: Abdullah Mansour | **Duration**: 42 Hours | **Date**: Feb 2022
+- **Comprehensive Coverage**: Dart fundamentals, full-stack Flutter, responsive UI for Android/iOS/Web
+- **Key Skills**: Clean code practices, testing strategies, scalable architecture, job market readiness
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarSaeed20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSaeed20&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OmarSaeed20&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency | Usage |
+|----------|-------------|-------|
+| 🇪🇬 **Arabic** | Native | Professional & Personal |
+| 🇺🇸 **English** | Professional | Technical Documentation & Communication |
+
+---
+
+## 💼 Why Choose Omar?
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Omar Saeed))
+    🎯 Expertise
+      3+ Years Experience
+      Production Apps
+      Performance Expert
+    🤝 Collaboration
+      Team Leadership
+      Mentorship
+      Problem Solving
+    🚀 Innovation
+      Clean Architecture
+      Modern Technologies
+      Continuous Learning
+    📱 Specialization
+      Flutter Expert
+      Cross-platform
+      UI/UX Focus
+```
+
+</div>
+
+### ✨ **Core Strengths**
+- 🎯 **Proven Track Record**: 8+ production apps with 20K+ combined downloads
+- ⚡ **Performance Expert**: Consistently improved app performance by 70%
+- 👥 **Team Leadership**: Successfully mentored junior developers
+- 🏗️ **Architecture Guru**: Clean Architecture and SOLID principles advocate
+- 🌍 **Global Ready**: Multilingual apps with proper localization
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+### 🤝 **Ready to collaborate? Let's build something amazing together!**
+
+[![Email](https://img.shields.io/badge/Email-omarhamode106@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Saeed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201067496938-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
+[![GitHub](https://img.shields.io/badge/GitHub-OmarSaeed20-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarSaeed20)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you found it helpful!**
+
+*Last updated: July 2025*
+
+</div>
